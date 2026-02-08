@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
           <a href={downloadLink} target="_blank" rel="noopener noreferrer" className="group relative w-full sm:w-auto">
             <div className="absolute -inset-1 bg-gradient-to-r from-[#E63946] to-[#F1A7B1] rounded-2xl blur opacity-30 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
             <div className="relative w-full sm:w-auto px-10 py-4 bg-[#E63946] text-white font-bold rounded-2xl flex items-center justify-center gap-2 transition-transform hover:-translate-y-1 active:scale-95 shadow-xl shadow-red-500/20 cursor-pointer">
-              Download APK
+              Scroll Down To Download APK
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
               </svg>
