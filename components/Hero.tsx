@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Hero: React.FC = () => {
-  const downloadLink = "https://github.com/luma-player/releases/latest/download/Luma.apk";
+  const downloadLink = "#";
 
   return (
     <section className="relative min-h-screen flex flex-col items-center justify-center pt-32 pb-20 px-6 overflow-hidden">
