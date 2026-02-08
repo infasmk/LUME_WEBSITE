@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# 🎵 LUMA — Feel Music, Flow Freely.
 
-This contains everything you need to run your app locally.
+![LUMA Header](https://raw.githubusercontent.com/infasmk/Lume_Music/main/header.png)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1MsS-dsTJZI9iuN4FWh13-ghrydneilfx
+LUMA is a modern, high-end, and open-source music player designed for users who value privacy, aesthetics, and high-performance audio playback. Built with **Flutter**, LUMA provides a seamless, distraction-free experience for your local music collection.
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- **🚫 Ad-Free Experience**: No interruptions, no banners, no nonsense. Just your music.
+- **📥 Offline Playback**: Full support for local files with high-fidelity audio processing.
+- **🎨 Modern & Fluid UI**: A light-red themed interface designed with glassmorphism and smooth animations.
+- **🔒 Privacy Focused**: No telemetry, no tracking, and no data mining. Your library stays on your device.
+- **🏎️ Performance**: Leveraging Flutter’s Skia/Impeller engine for 60FPS transitions.
 
+## 🚀 Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Download
+You can download the latest version of LUMA for Android directly from the releases page:
+
+- **[Download LUMA APK (v1.2.0)](https://github.com/infasmk/Lume_Music/releases/download/v1.0.0/LUME-V1.01.apk)**
+
+### Installation
+1. Download the `.apk` file.
+2. Enable "Install from Unknown Sources" in your Android settings if required.
+3. Install and start flowing with your music.
+
+## 💻 Technical Stack
+
+- **Mobile App**: Built with [Flutter](https://flutter.dev) for cross-platform performance.
+- **Website**: Built with [React](https://reactjs.org), [Tailwind CSS](https://tailwindcss.com), and [Framer Motion](https://www.framer.com/motion/) for an immersive product showcase.
+
+## 🤝 Contributing
+
+LUMA is built by the community, for the community. We welcome contributions of all kinds!
+
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+## 📄 License
+
+Distributed under the **GPL-3.0 License**. See `LICENSE` for more information.
+
+---
+
+### Created by [infasmk](https://github.com/infasmk)
+
+> "Music is the shorthand of emotion." — Rediscover yours with **LUMA**.
