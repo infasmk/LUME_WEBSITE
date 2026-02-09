@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Download: React.FC = () => {
-  const downloadLink = "https://github.com/infasmk/Lume_Music/releases/download/v1.0.3/LumaV2.09infas.apk";
+  const downloadLink = "https://github.com/infasmk/Lume_Music/releases/download/v1.0.0/LumaV2.09infas.apk";
   const sourceLink = "https://instagram.com/infaaze?";
 
   return (
