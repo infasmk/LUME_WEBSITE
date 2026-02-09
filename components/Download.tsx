@@ -2,8 +2,8 @@
 import React from 'react';
 
 const Download: React.FC = () => {
-  const downloadLink = "https://github.com/infasmk/Lume_Music/releases/download/v1.0.2/LUMA.BY.INFAS.apk";
-  const sourceLink = "https://github.com/infasmk/Lume_Music";
+  const downloadLink = "https://github.com/infasmk/Lume_Music/releases/download/v1.0.3/LumaV2.09infas.apk";
+  const sourceLink = "https://instagram.com/infaaze?";
 
   return (
     <section id="download" className="py-24 px-6 relative">
@@ -20,14 +20,14 @@ const Download: React.FC = () => {
               <span className="text-xs bg-white/20 px-2 py-0.5 rounded text-white uppercase">APK</span>
             </a>
             <a href={sourceLink} target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto px-10 py-5 bg-white border-2 border-red-100 text-[#E63946] font-extrabold rounded-2xl transition-all hover:scale-105 hover:bg-red-50 active:scale-95">
-              Source on GitHub
+              Follow On Instagram
             </a>
           </div>
 
           <div className="pt-8 border-t border-gray-100 text-left">
             <div className="flex items-center justify-between mb-4">
               <span className="text-sm font-bold text-gray-400 uppercase tracking-widest">Recent Changelog</span>
-              <span className="text-xs font-mono font-bold text-[#E63946] bg-red-50 px-2 py-1 rounded">v1.2.0 • Nov 2024</span>
+              <span className="text-xs font-mono font-bold text-[#E63946] bg-red-50 px-2 py-1 rounded">v1.0.3 • Feb 2026</span>
             </div>
             <ul className="space-y-2 text-sm text-gray-500 font-medium">
               <li className="flex items-start gap-2">
